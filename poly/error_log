@@ -1,0 +1,25 @@
+[08-Apr-2018 14:56:50 UTC] PHP Notice:  Undefined variable: base_url in /home/froxtlab/public_html/home/poly/header1.php on line 176
+[08-Apr-2018 14:56:50 UTC] PHP Stack trace:
+[08-Apr-2018 14:56:50 UTC] PHP   1. {main}() /home/froxtlab/public_html/home/poly/attendance_add.php:0
+[08-Apr-2018 14:56:50 UTC] PHP   2. include() /home/froxtlab/public_html/home/poly/attendance_add.php:2
+[08-Apr-2018 15:02:44 UTC] PHP Notice:  Undefined variable: base_url in /home/froxtlab/public_html/home/poly/header1.php on line 176
+[08-Apr-2018 15:02:44 UTC] PHP Stack trace:
+[08-Apr-2018 15:02:44 UTC] PHP   1. {main}() /home/froxtlab/public_html/home/poly/attendance_add.php:0
+[08-Apr-2018 15:02:44 UTC] PHP   2. include() /home/froxtlab/public_html/home/poly/attendance_add.php:2
+[08-Apr-2018 15:03:44 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/froxtlab/public_html/home/poly/attendence_view.php on line 3
+[09-Apr-2018 13:36:51 UTC] PHP Notice:  Undefined variable: base_url in /home/froxtlab/public_html/home/poly/header1.php on line 176
+[09-Apr-2018 13:36:52 UTC] PHP Stack trace:
+[09-Apr-2018 13:36:52 UTC] PHP   1. {main}() /home/froxtlab/public_html/home/poly/admin_poly.php:0
+[09-Apr-2018 13:36:52 UTC] PHP   2. include() /home/froxtlab/public_html/home/poly/admin_poly.php:2
+[09-Apr-2018 13:40:15 UTC] PHP Notice:  Undefined variable: base_url in /home/froxtlab/public_html/home/poly/header1.php on line 176
+[09-Apr-2018 13:40:15 UTC] PHP Stack trace:
+[09-Apr-2018 13:40:15 UTC] PHP   1. {main}() /home/froxtlab/public_html/home/poly/admin_poly.php:0
+[09-Apr-2018 13:40:15 UTC] PHP   2. include() /home/froxtlab/public_html/home/poly/admin_poly.php:2
+[10-Apr-2018 04:13:16 UTC] PHP Notice:  Undefined variable: base_url in /home/froxtlab/public_html/home/poly/header1.php on line 176
+[10-Apr-2018 04:13:16 UTC] PHP Stack trace:
+[10-Apr-2018 04:13:16 UTC] PHP   1. {main}() /home/froxtlab/public_html/home/poly/admin_poly.php:0
+[10-Apr-2018 04:13:16 UTC] PHP   2. include() /home/froxtlab/public_html/home/poly/admin_poly.php:2
+[10-Apr-2018 04:17:47 UTC] PHP Notice:  Undefined variable: base_url in /home/froxtlab/public_html/home/poly/header1.php on line 176
+[10-Apr-2018 04:17:47 UTC] PHP Stack trace:
+[10-Apr-2018 04:17:47 UTC] PHP   1. {main}() /home/froxtlab/public_html/home/poly/admin_poly.php:0
+[10-Apr-2018 04:17:47 UTC] PHP   2. include() /home/froxtlab/public_html/home/poly/admin_poly.php:2
